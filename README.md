@@ -1,16 +1,15 @@
-### Hi there 👋
+#### about me
 
-<!--
-**clvrex/clvrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm clarex. I like working on javascript, html and pentesting. I also usually develop remote administration tools. I also like spending my free time with reverse engineering, code injection and penetration testing.
 
-Here are some ideas to get you started:
+#### me on social media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Discord: [clarex#0001](https://discord.com/users/302895518881677312)
+- Site: [clarex.wtf](https://clarex.wtf/)
+
+<h1 align="center">clarex</h1>
+
+<p align="center">
+ <a href="https://discord.com/users/302895518881677312" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.github.com/theclarex" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://www.instagram.com/dqnies" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
